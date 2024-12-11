@@ -6,8 +6,7 @@ public class tasksheet112 {
         byte  Three =  3; 
         short  el = 1;
         int o =  0; 
-        char w = 'W';
-        int o1 = 0 ; 
+        char w = 'w';
         char r = 'R';
         byte l2 = 1;
         char d = 'D' ;
@@ -15,7 +14,7 @@ public class tasksheet112 {
         float twoPointZero= 2.0f;
         boolean t= true;
         
-        String output = "H"+Three+el+el+o+"  "+w+o1+r+l2+d+" "+twoPointZero+"  "+t;
+        String output = "H"+Three+el+el+o+"  "+w+o+r+l2+d+" "+twoPointZero+"  "+t;
 
         System.out.println(output);
     }
